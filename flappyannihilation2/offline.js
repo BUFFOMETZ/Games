@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543369151,
+	"version": 1543392760,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/dummy_annihilatortop-sheet0.png",
 		"images/img_backgroundgame-sheet0.png",
 		"images/dummy_spawnpoint-sheet0.png",
+		"images/dummy_border-sheet0.png",
 		"images/dummy_bird-sheet0.png",
 		"images/img_logo-sheet0.png",
 		"images/img_chickbg-sheet0.png",
@@ -32,21 +33,18 @@
 		"images/txt_spritefont.png",
 		"images/bloodparticles.png",
 		"images/bloodflash.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/click01.ogg",
-		"media/click02.ogg",
-		"media/click03.ogg",
-		"media/click04.ogg",
 		"media/crow01.ogg",
 		"media/crow02.ogg",
 		"media/crow03.ogg",
+		"media/attack01.ogg",
+		"media/screw01.ogg",
+		"media/screw02.ogg",
 		"media/crack01.ogg",
-		"media/theme04.ogg",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"icon-16.png",
 		"pathfind.js"
 	]
 }
