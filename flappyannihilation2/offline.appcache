@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1543365032
+#1543369151
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -35,6 +35,10 @@ media/click01.ogg
 media/click02.ogg
 media/click03.ogg
 media/click04.ogg
+media/crow01.ogg
+media/crow02.ogg
+media/crow03.ogg
+media/crack01.ogg
 media/theme04.ogg
 icon-32.png
 icon-114.png
