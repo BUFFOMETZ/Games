@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543359740,
+	"version": 1543365032,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,8 @@
 		"images/img_gameover-sheet0.png",
 		"images/img_restart-sheet0.png",
 		"images/txt_spritefont.png",
+		"images/bloodparticles.png",
+		"images/bloodflash.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
