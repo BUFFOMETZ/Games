@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543392760,
+	"version": 1543393897,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,7 +44,6 @@
 		"media/screw02.ogg",
 		"media/crack01.ogg",
 		"icon-256.png",
-		"loading-logo.png",
 		"pathfind.js"
 	]
 }
