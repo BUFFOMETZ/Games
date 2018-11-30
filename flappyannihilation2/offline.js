@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543401014,
+	"version": 1543617829,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,13 +28,15 @@
 		"images/img_pause-sheet0.png",
 		"images/img_hearts.png",
 		"images/img_score-sheet0.png",
-		"images/img_gameover-sheet0.png",
+		"images/img_endscores-sheet0.png",
 		"images/img_restart-sheet0.png",
 		"images/txt_spritefont.png",
-		"images/bloodparticles.png",
-		"images/bloodflash.png",
-		"images/sprite-sheet0.png",
+		"images/obj_bloodparticles.png",
+		"images/obj_bloodflash.png",
+		"images/obj_blood-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/img_endrecord-sheet0.png",
+		"images/img_endplane-sheet0.png",
 		"media/click01.ogg",
 		"media/crow01.ogg",
 		"media/crow02.ogg",
@@ -47,6 +49,11 @@
 		"media/chick02.ogg",
 		"media/chick03.ogg",
 		"icon-256.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"loading-logo.png",
 		"pathfind.js"
 	]
 }
