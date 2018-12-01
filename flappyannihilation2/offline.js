@@ -1,11 +1,10 @@
 ﻿{
-	"version": 1543618108,
+	"version": 1543625157,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
-		"images/font_text.png",
 		"images/img_twitter-sheet0.png",
 		"images/img_sound-sheet0.png",
 		"images/img_sound-sheet1.png",
@@ -35,6 +34,8 @@
 		"images/obj_blood-sheet0.png",
 		"images/img_endrecord-sheet0.png",
 		"images/img_endplane-sheet0.png",
+		"images/img_clouds-sheet0.png",
+		"images/img_clouds-sheet1.png",
 		"media/click01.ogg",
 		"media/attack01.ogg",
 		"media/screw01.ogg",
