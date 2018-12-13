@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544643705,
+	"version": 1544731943,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,10 @@
 		"images/obj_generator-sheet1.png",
 		"images/particles_fire.png",
 		"images/particles_fire3.png",
+		"images/img_menupanel-sheet0.png",
+		"images/btn_openmenu-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
