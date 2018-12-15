@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544874002,
+	"version": 1544903036,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,7 +33,6 @@
 		"images/img_dist01-sheet0.png",
 		"images/particles.png",
 		"images/particles2.png",
-		"images/sprite4-sheet0.png",
 		"images/img_logo-sheet0.png",
 		"images/img_bottombar-sheet0.png",
 		"images/sprite8-sheet0.png",
@@ -42,6 +41,7 @@
 		"images/img_moneyicon-sheet0.png",
 		"images/img_incomeicom-sheet0.png",
 		"images/img_speedicon-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
@@ -52,6 +52,7 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"icon-16.png"
+		"icon-16.png",
+		"penumbra.png"
 	]
 }
