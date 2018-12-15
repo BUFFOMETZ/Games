@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544903036,
+	"version": 1544912300,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,10 @@
 		"images/img_incomeicom-sheet0.png",
 		"images/img_speedicon-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite4-sheet0.png",
+		"images/метеор-sheet0.png",
+		"images/particles3.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
@@ -52,7 +56,6 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"icon-16.png",
-		"penumbra.png"
+		"icon-16.png"
 	]
 }
