@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545091545,
+	"version": 1545145196,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,10 @@
 		"images/obj_crystall-sheet0.png",
 		"images/obj_fire-sheet0.png",
 		"images/obj_fire-sheet1.png",
+		"images/мусор-sheet0.png",
+		"images/мусор-sheet1.png",
+		"images/sprite-sheet0.png",
+		"images/obj_bullet-sheet0.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
