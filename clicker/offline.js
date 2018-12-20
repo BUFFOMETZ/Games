@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545249160,
+	"version": 1545335707,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,9 +17,9 @@
 		"images/btn_upgradespeed-sheet1.png",
 		"images/dummy_openmenu-sheet0.png",
 		"images/btn_restart-sheet0.png",
-		"images/f_text.png",
+		"images/txt_white.png",
+		"images/txt_black.png",
 		"images/obj_ship-sheet0.png",
-		"images/name.png",
 		"images/obj_planeticons-sheet0.png",
 		"images/obj_planeticons-sheet1.png",
 		"images/obj_planeticons-sheet2.png",
@@ -43,7 +43,6 @@
 		"images/obj_fire-sheet1.png",
 		"images/obj_stuff-sheet0.png",
 		"images/obj_stuff-sheet1.png",
-		"images/obj_bullet-sheet0.png",
 		"images/tiledstars01.png",
 		"images/tiledstars02.png",
 		"images/tiledclouds01.png",
