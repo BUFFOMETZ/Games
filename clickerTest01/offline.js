@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545339545,
+	"version": 1545520071,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,10 @@
 		"images/tiledstars02.png",
 		"images/tiledclouds01.png",
 		"images/tiledclouds02.png",
+		"images/particles_crystallgreen.png",
+		"images/particles_crystallorange.png",
+		"images/particles_meteortrail.png",
+		"images/particles_meteorcrack.png",
 		"media/click01.ogg",
 		"media/click02.ogg",
 		"media/click03.ogg",
